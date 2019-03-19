@@ -1,6 +1,6 @@
 ---
-title: "First_post"
-date: 2019-03-19T02:50:31Z
-draft: true
+title: First_post
+date: 2019-03-19 02:50:31 +0000
+
 ---
 this is a post
