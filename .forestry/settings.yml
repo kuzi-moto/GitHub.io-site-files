@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: Static
+  path: static
   label: Static
   create: all
-  match: "/*"
+  match: "*"
 - type: directory
   path: content
   label: Pages
