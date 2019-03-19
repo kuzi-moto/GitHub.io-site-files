@@ -1,0 +1,4 @@
+baseURL = "https://kuzmafesenko.com/"
+languageCode = "en-us"
+title = "Kuzma Fesenko"
+theme = "gohugo-theme-ananke"
