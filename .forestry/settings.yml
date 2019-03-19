@@ -6,9 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: Static
-  label: Static
+  label: Static Files
   create: all
-  match: "**/*"
+  match: "/*"
 - type: directory
   path: content
   label: Pages
