@@ -8,7 +8,7 @@ sections:
   path: static
   label: Static
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
